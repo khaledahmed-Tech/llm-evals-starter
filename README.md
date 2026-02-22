@@ -1,4 +1,4 @@
-# <LLM Evals Starter>
+# LLM Evals Starter
 
 **Purpose:** (one sentence)
 
